@@ -1,4 +1,4 @@
-# Anti-Tramper-Killer
+# Anti-Tamper-Killer
 This is a good tool to remove a (Anti-Tramper) 
 **the best thing about this program is that it does not corrupt the file and continues to work without any problem**
 - VirusTotal: https://www.virustotal.com/gui/file/6f9fdb5165da253dc6ba8c7ae951b6d3cd58a24b2480e638cb2edca92465453d?nocache=1
